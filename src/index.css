@@ -43,7 +43,8 @@ body {
 
 .divCompras{
   max-height: 500px;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 b {
